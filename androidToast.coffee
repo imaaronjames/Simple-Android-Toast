@@ -1,6 +1,6 @@
 # Module created by Aaron James | November 21th, 2015
 #
-# Before using thise module, make sure to have the font Roboto-Regular installed
+# Before using this module, make sure to have the font Roboto-Regular installed
 #
 # Add the following line at the top of your project to access this module:
 # android = require "androidToast"
