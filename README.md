@@ -14,9 +14,13 @@ More info about modules for Framer Studio: [FramerJS Docs - Modules](http://fram
 ![TextLayer](https://raw.githubusercontent.com/imaaronjames/Simple-Android-Toast/master/androidToast-Sample-Project.framer/images/sample.png)
 
 ## How to use this module
-You only need one line of code to make Simple Android Toast work. It looks a little something like this.
+You only need one line of code to make Simple Android Toast work. It looks a little something like this:
 
   `android.toast("By default, toasts are one line")`
+
+or, if your toast requires more than one line, the code could look like this:
+
+  `android.toast("If your toast is a little longer, you can make your toast larger", "isTwoLines")`
 
 ### Simple customization
 There are two parameters you can change: toastMessage and toastSize
