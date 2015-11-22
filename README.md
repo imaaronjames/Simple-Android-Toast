@@ -9,6 +9,8 @@ Use this module to easily add Android toasts to your Framer JS projects.
 
 More info about modules for Framer Studio: [FramerJS Docs - Modules](http://framerjs.com/docs/#modules)
 
+![TextLayer](https://raw.githubusercontent.com/imaaronjames/Simple-Android-Toast/master/androidToast-Sample-Project.framer/images/sample.png)
+
 ## How to use this module
 You only need one line of code to make Simple Android Toast work. It looks a little something like this.
 
