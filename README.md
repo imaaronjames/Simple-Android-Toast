@@ -9,6 +9,8 @@ Use this module to easily add Android toasts to your Framer Studio projects.
 
 Before using this module, make sure to have the font Roboto-Regular installed
 
+[Sample Project can be found here.](http://share.framerjs.com/0ytzaep2ejvb/)
+
 More info about modules for Framer Studio: [FramerJS Docs - Modules](http://framerjs.com/docs/#modules)
 
 ![TextLayer](https://raw.githubusercontent.com/imaaronjames/Simple-Android-Toast/master/androidToast-Sample-Project.framer/images/sample.png)
