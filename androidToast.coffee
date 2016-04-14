@@ -1,6 +1,6 @@
-# Module created by Aaron James | November 21th, 2015
+# Module created by Aaron James | April 16th, 2016
 #
-# Before using this module, make sure to have the font Roboto-Regular installed
+# Before using thise module, make sure to have the font Roboto-Regular installed
 #
 # Add the following line at the top of your project to access this module:
 # android = require "androidToast"
@@ -11,7 +11,7 @@
 # Available options:
 # toastSize: isTwoLines or isThreeLines will change the size of the toast to fit multiple lines.
 
-exports.toast = (toastMessage, toastSize) ->
+exports.Toast = (toastMessage, toastSize) ->
 	heightMult = 1
 	if toastSize == "isTwoLines" then heightMult = 1.44
 	if toastSize == "isThreeLines" then heightMult = 1.88

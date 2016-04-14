@@ -1,5 +1,5 @@
-# Module created by Aaron James | November 21th, 2015
-android = require ("androidToast")
+# Module created by Aaron James | April 14th, 2016
+Android = require ("androidToast")
 
 # Setting up the background and help text
 bg = new BackgroundLayer
@@ -20,4 +20,4 @@ helpText.center()
 
 ## Call module on click
 bg.on Events.Click, ->
-	android.toast("By default, toasts are one line.")
+	Android.Toast("By default, toasts are one line.")

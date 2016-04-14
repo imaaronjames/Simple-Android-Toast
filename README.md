@@ -5,7 +5,7 @@ Use this module to easily add Android toasts to your Framer Studio projects.
 
 1. Download the androidToast.coffee file.
 2. Create a Framer project and drop androidToast.coffee inside your /modules folder.
-3. Add `android = require 'androidToast'` at the top of your document.
+3. Add `Android = require 'androidToast'` at the top of your document.
 
 Before using this module, make sure to have the font Roboto-Regular installed
 
@@ -18,11 +18,11 @@ More info about modules for Framer Studio: [FramerJS Docs - Modules](http://fram
 ## How to use this module
 You only need one line of code to make Simple Android Toast work. It looks a little something like this:
 
-&nbsp;&nbsp;&nbsp;&nbsp;`android.toast("By default, toasts are one line")`
+&nbsp;&nbsp;&nbsp;&nbsp;`Android.Toast("By default, toasts are one line")`
 
 or, if your toast requires more than one line, the code could look like this:
 
-&nbsp;&nbsp;&nbsp;&nbsp;`android.toast("If your toast is a little longer, you can make your toast larger", "isTwoLines")`
+&nbsp;&nbsp;&nbsp;&nbsp;`Android.Toast("If your toast is a little longer, you can make your toast larger", "isTwoLines")`
 
 ### Simple customization
 There are two parameters you can change: toastMessage and toastSize
